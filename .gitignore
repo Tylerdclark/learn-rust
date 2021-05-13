@@ -12,3 +12,7 @@ Cargo.lock
 .DS_Store
 
 hello_world/target/
+
+.idea/
+
+guessing_game/target/
