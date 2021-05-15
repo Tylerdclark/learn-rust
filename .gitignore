@@ -16,3 +16,5 @@ hello_world/target/
 .idea/
 
 guessing_game/target/
+
+variables/target/
